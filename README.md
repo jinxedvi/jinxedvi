@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jinxedvi
+- 👀 I like arcane and overwatch, and sometimes coding something useful, usually a script in python
+- 🌱 I’m currently learning more script coding with different apis
